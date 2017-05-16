@@ -1,6 +1,6 @@
 FROM node:boron
 
-# Create app directory
+# New Create app directory
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 
